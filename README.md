@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adebayo Michael
+# 👋 Hi, I'm Michael Adebayo
 
 Data analyst with a health ops background. I write SQL, build Power BI dashboards, and turn messy Excel exports into answers. Currently learning Python.
 
