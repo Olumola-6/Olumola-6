@@ -11,9 +11,11 @@ Open for: junior data analyst or BI analyst roles.
 - Python (learning: pandas + matplotlib)
 
 ## 📁 Projects I've built
+- [Clinical Survival Predictor](https://github.com/Olumola-6/Clinical_Survival_Predictor) – Python + Scikit-learn tumor analysis, 87.7% prediction accuracy
+- [HealthPulse](https://github.com/Olumola-6/HealthPulse-Data-Analysis) – 50K medical appointments, found Saturday no-show hotspot
 - [Sakila DVD Rental](https://github.com/Olumola-6/Sakila-DVD-Rental-Business-Analysis) – SQL joins across 5 tables to find revenue vs late return patterns
 - [Global Health Efficiency](https://github.com/Olumola-6/Global-Health-Efficiency-Analysis) – Unpivoted 9 years of WHO data
-- [HealthPulse](https://github.com/Olumola-6/HealthPulse-Data-Analysis) – 50K medical appointments, found Saturday no-show hotspot
+
 
 ## 📫 Connect
 - [GitHub](https://github.com/Olumola-6) 
