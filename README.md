@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Michael Adebayo
 
-Data analyst with a health ops background. I write SQL, build Power BI dashboards, and turn messy Excel exports into answers. Currently learning Python.
+Data analyst with a health ops background. I write SQL, build Power BI dashboards, and turn messy Excel exports into answers. Currently learning Python for data analysis and data science.
 
-Open for: junior data analyst or BI analyst roles.
+Open for: Data analyst or BI analyst roles.
 
 ## 🔧 What I work with
 - SQL (joins, CTEs, window functions)
