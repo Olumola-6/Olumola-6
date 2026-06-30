@@ -12,6 +12,7 @@ Open for: Data analyst or BI analyst roles.
 
 ## 📁 Projects I've built
 - [Clinical Survival Predictor](https://github.com/Olumola-6/Clinical_Survival_Predictor) – Python + Scikit-learn tumor analysis, 87.7% prediction accuracy
+- [athletex-care-sports-injury-analytics]A sports medicine dashboard built in Power BI to track historical injury patterns, audit treatment costs, and it features a custom risk-scoring column to help teams flag high-risk player profiles before they return   to training.
 - [HealthPulse](https://github.com/Olumola-6/HealthPulse-Data-Analysis) – 50K medical appointments, found Saturday no-show hotspot
 - [Sakila DVD Rental](https://github.com/Olumola-6/Sakila-DVD-Rental-Business-Analysis) – SQL joins across 5 tables to find revenue vs late return patterns
 - [Global Health Efficiency](https://github.com/Olumola-6/Global-Health-Efficiency-Analysis) – Unpivoted 9 years of WHO data
